@@ -31,6 +31,8 @@ CheckOptions:
   # Variable names
   - key:    readability-identifier-naming.VariableCase
     value:  lower_case
+  - key:    readability-identifier-naming.MemberSuffix
+    value:  '_'
   - key:    readability-identifier-naming.ClassMemberSuffix
     value:  '_'
 
